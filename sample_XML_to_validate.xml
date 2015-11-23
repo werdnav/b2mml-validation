@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<b2mml:MaterialLot
- 
-    xmlns:b2mml="http://www.w3.org/2001/XMLSchema">
-
-    <b2mml:ID>testid</b2mml:ID>
-
-</b2mml:MaterialLot>
+<MaterialLot xmlns="http://www.w3.org/2001/XMLSchema">
+    <ID>000010002377</ID>
+</MaterialLot>
