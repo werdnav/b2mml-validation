@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<b2mml:MaterialLot
+ 
+    xmlns:b2mml="http://www.w3.org/2001/XMLSchema">
+
+    <b2mml:ID>hello</b2mml:ID>
+</b2mml:MaterialLot>
