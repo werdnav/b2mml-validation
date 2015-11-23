@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MaterialLot xmlns="http://www.w3.org/2001/XMLSchema">
-    <ID>000010002377</ID>
+<MaterialLot xmlns="http://www.wbf.org/xml/B2MML-V0401">
+    <ID>A0000</ID>
+    <Description>Lot 1</Description>
+    <MaterialDefinitionID>5A</MaterialDefinitionID>
+    <Status>WIP</Status>
+    <StorageLocation>B10</StorageLocation>
 </MaterialLot>
