@@ -33,9 +33,9 @@ def validate_xml(xmlschemafile, xmlfilename):
 
 
 if __name__ == '__main__':
-    print '##########################################'
+
     xmlschema = 'B2MML-V0401-Material.xsd'
-    filenames = ['example.xml']
+    filenames = ['sample_XML_to_validate.xml']
     for filename in filenames:
         if validate_xml(xmlschema, filename):
             print "File: %s validates." % filename
@@ -44,9 +44,3 @@ if __name__ == '__main__':
                 print fin.read()
         else:
             print "File: %s does not validate." % filename
-            
-    with open(xmlschema, 'r') as f:
-        schema_root = etree.XML(f.read())
-        
-        
-        

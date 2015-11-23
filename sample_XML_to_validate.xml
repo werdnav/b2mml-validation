@@ -4,5 +4,6 @@
  
     xmlns:b2mml="http://www.w3.org/2001/XMLSchema">
 
-    <b2mml:ID>hello</b2mml:ID>
+    <b2mml:ID>testid</b2mml:ID>
+
 </b2mml:MaterialLot>
